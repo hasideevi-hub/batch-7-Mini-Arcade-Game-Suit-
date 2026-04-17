@@ -29,9 +29,3 @@ This project is a **Mini Arcade Game Suite** built in Python.
 It includes multiple classic mini-games packaged together with a main menu for easy navigation.  
 The goal is to provide a fun, interactive, and educational experience while showcasing teamwork and coding skills.
 
----
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo-link.git
